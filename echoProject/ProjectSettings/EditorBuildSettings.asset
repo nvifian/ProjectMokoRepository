@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ftueScene.unity
+    guid: e03e5faa5d8afa945a2b1104384bccc8
+  - enabled: 1
+    path: Assets/Scenes/mainScene.unity
+    guid: 700d229a89b23c24ea19ad26f5dddd77
+  - enabled: 1
+    path: Assets/Scenes/fishGameScene.unity
+    guid: a5448cd2257741c42840ead73534f202
+  - enabled: 1
+    path: Assets/Scenes/fishGameFtueScene.unity
+    guid: 5684fea452f44184faee3961a0c597d8
+  - enabled: 1
+    path: Assets/Scenes/mainSceneAlt.unity
+    guid: c86cd66c4e9754f4893f852a55d45829
+  - enabled: 1
+    path: Assets/Scenes/mapFtueScene.unity
+    guid: 5328f0f92681d844daebc3fc1832c43d
+  - enabled: 1
+    path: Assets/Scenes/logScene.unity
+    guid: c67ed09d74c7efa48b0b89db3d49e37a
+  - enabled: 1
+    path: Assets/Scenes/mapScene.unity
+    guid: 4cc59ba884f6caa4cadb15d2372b6a6a
+  - enabled: 1
+    path: Assets/Scenes/beachBallScene.unity
+    guid: 0c3bf1a7fb76841449af1fc902a0c95e
+  - enabled: 1
+    path: Assets/Scenes/fishGameSceneTest.unity
+    guid: f9426fe877c496144b723030d864b4ec
+  - enabled: 1
+    path: Assets/Scenes/Game2Scene.unity
+    guid: ed55aaedc2776804bab3aec2983222a9
+  - enabled: 1
+    path: Assets/Scenes/lvl5Scene.unity
+    guid: ade32f86dfe63b0408d844c1b36bad2c
+  - enabled: 1
+    path: Assets/Scenes/lvl52Scene.unity
+    guid: e8e826fbc291f4a499e2ad7bee793503
